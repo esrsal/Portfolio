@@ -1,0 +1,108 @@
+/*---SEARCH BAR------*/
+@import url('https://fonts.cdnfonts.com/css/baskerville?styles=17607" rel="stylesheet');
+
+.searchContainer {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 500px;
+  padding-top: 50px;
+  margin-bottom: 200px;
+  max-height: 500px;
+  position: relative;
+}
+
+.searchBar {
+  background-color: rgb(255, 255, 255);
+  border-color: #0F2C59;
+  border-width: 1px;
+  border-style: solid;
+  width: 100%;
+  max-width: 500px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 5px;
+}
+
+.searchBar input {
+  background: transparent;
+  border: 0;
+  width: 100%;
+  margin: auto;
+  outline: none;
+  padding: 1px 5px;
+  padding-bottom: 2px;
+  font-size: 18px;
+  height: 19px;
+}
+
+.searchBar button {
+  border: 0;
+  border-radius: 50%;
+  background-color: transparent;
+  width: 45px;
+  height: 45px;
+  cursor: pointer;
+}
+
+.searchBar button img {
+  max-width: 28px;
+}
+
+.searchBar ::placeholder {
+  color: #bababa;
+  font-family: 'Baskerville BT', sans-serif;
+}
+
+.suggestions {
+  position: absolute;
+  width: 100%;
+  z-index: 1000;
+  max-height: 170px;
+  overflow-y: scroll;
+  background-color: white;
+
+}
+
+.suggestions li {
+  padding-left: 4px;
+  list-style: none;
+  border-color: rgb(255, 255, 255);
+  line-height: 28px;
+  font-family: 'Baskerville', sans-serif;
+}
+
+.suggestions li:hover {
+  list-style: none;
+  background-color: rgb(244, 244, 244);
+}
+
+.ingredientsList {
+  display: flex;
+  position: absolute;
+  flex-flow: row wrap;
+  width: 400px;
+  gap: 12px;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 20px;
+  font-family: 'Baskerville', sans-serif;
+  font-style: light;
+  color: rgb(122, 122, 122);
+}
+
+.ingredientsList li {
+  list-style: none;
+  background-color: #f8f8f8;
+  border-radius: 60px;
+  padding-left: 8px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  cursor: pointer;
+}
+
+.ingredientsList li:hover {
+  list-style: none;
+  background-color: #2e425f76;
+}

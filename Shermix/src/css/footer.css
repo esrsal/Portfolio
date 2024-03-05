@@ -1,0 +1,39 @@
+/*---*FOOTER*---*/
+.main-footer {
+    position: absolute;
+    flex-flow: row wrap;
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: #F8F0E5;
+    color: #0F2C59;
+    border: transparent;
+    padding: 10px;
+}
+
+.rows {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.rows ul {
+    list-style: none;
+    padding-left: 15px;
+}
+
+.rows a:hover {
+    border-color: skyblue;
+    opacity: 0.5;
+    backdrop-filter: blur(2px);
+    transition: opacity 0.2s;
+    cursor: pointer;
+}
+
+.rows a {
+    color: #0F2C59;
+    text-decoration: none;
+}

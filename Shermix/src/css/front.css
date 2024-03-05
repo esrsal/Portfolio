@@ -1,0 +1,106 @@
+/*---FRONT PAGE---*/
+.frontPage {
+  /*Flexbox to center the images*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 55px;
+}
+
+.video {
+  position: absolute;
+  display: flex;
+  z-index: -10;
+  width: 100%;
+}
+
+.imagePosition {
+  /*Sets the images next to each other*/
+  display: flex;
+  max-width: 900px;
+  width: 900px;
+  gap: 70px;
+  padding-top: 150px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.image {
+  /*Moves the pictures since its set to relative*/
+  display: flex;
+  position: relative;
+}
+
+.frontPageImg {
+  display: block;
+  width: 100%;
+  border-radius: 4px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+}
+
+.imageOverlay {
+  /*Creates the white cast over images */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #0F2C5959;
+  color: rgb(255, 255, 255);
+  font-family: Avenir, Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.5s;
+  border-radius: 4px;
+}
+
+.imageOverlay:hover {
+  opacity: 1;
+  backdrop-filter: blur(2px);
+  cursor: pointer;
+}
+
+.imageTitle {
+  /*Font*/
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  transform: translateY(5px);
+  transition: transform 0.5;
+  cursor: pointer;
+}
+
+.front-intro {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 600px;
+  margin-bottom: 150px;
+  padding-right: 100px;
+  padding-left: 20px;
+}
+
+@media (max-width: 981px) {
+  .front-intro {
+    padding: 100px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-top: 400px;
+  }
+
+  .imagePosition {
+    padding-top: 50px;
+  }
+}
+
+.front-intro h1 {
+  padding-top: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+}

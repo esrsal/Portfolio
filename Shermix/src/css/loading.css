@@ -1,0 +1,12 @@
+/*---LOADING IMAGE AND COMBINATION ERROR---*/
+.combination-error {
+    display: flex;
+    justify-content: center;
+}
+
+.loading-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
