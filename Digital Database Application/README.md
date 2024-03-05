@@ -33,4 +33,4 @@ Data Storage Paradigms, IV1351 at KTH.
 - Describe and explain basic concepts, principles, and theories in the realm of data, databases, data storage, information administration, and database design.
 
 ## Collaboration 
-This project was created alongside Daniel Ibrahimi & Ermia Ghaffari
+Written and collaborated, Esra Salman, Daniel Ibrahimi & Ermia Ghaffari
