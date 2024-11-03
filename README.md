@@ -9,7 +9,7 @@ Hello there! 👋 I'm Esra Salman, currently in my third year of Engineering in 
 - **Year:** 3rd Year
 - **Focus:** Software Development, Systems Engineering
 
-##Skills
+## Skills
 I have gained proficiency in several programming languages and technologies through my academic projects and personal exploration:
 
 - **Programming Languages:** Java, JavaScript, Elixir, C
