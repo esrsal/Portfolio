@@ -8,11 +8,11 @@
 
 ## 🚀 Features
 
-- 🔍 Search for specific rooms or buildings on the KTH campus
-- 🗺️ Interactive map with intuitive UI
-- 🧱 Clear separation of logic using MVP pattern
-- ⚡ Ultra-fast development and build with **Vite**
-- 🧭 Easily accessible on desktop and mobile browsers
+- Search for specific rooms or buildings on the KTH campus
+- Interactive map with intuitive UI
+- Clear separation of logic using MVP pattern
+- Ultra-fast development and build with **Vite**
+- Easily accessible on desktop and mobile browsers
 
 ---
 
@@ -28,3 +28,21 @@
 
 ## 📂 Project Structure
 
+KTHNAV/
+├── index.html # HTML entry point
+├── package.json # Project dependencies and scripts
+├── vite.config.js # Vite configuration
+├── README.md # Project overview (this file)
+└── src/
+├── main.jsx # React entry point
+├── App.jsx # Main app component
+├── Model/ # Handles data logic
+│ └── ... # Model files
+├── Presenter/ # Business logic / control flow
+│ └── ... # Presenter files
+├── View/ # UI components (React)
+│ └── ... # Views
+├── CSS/ # Styling files
+│ └── ... # CSS styles
+└── assets/ # Static assets (images, icons)
+└── ...
