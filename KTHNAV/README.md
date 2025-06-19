@@ -1,9 +1,11 @@
-# KTHNAV
+# 🌐 KTHNAV
 
 **Live Website:** [https://kthnav-nine.vercel.app](https://kthnav-nine.vercel.app)
 
 **KTHNAV** is a React-based navigation web app for the KTH (Royal Institute of Technology) campus. It helps users locate buildings and specific rooms across the campus through an intuitive interface. Built using the **Model-View-Presenter (MVP)** architectural pattern and powered by **Vite** for a fast development experience.
 
+
+Open the link in any modern browser — no setup required.
 ---
 
 ## 🚀 Features
@@ -46,3 +48,35 @@ KTHNAV/
 │ └── ... # CSS styles
 └── assets/ # Static assets (images, icons)
 └── ...
+
+
+---
+
+
+## 👥 Team
+
+Developed as a group project at KTH by the following collaborators:
+
+- [Albin Sigge](https://github.com/AlbinSigge)
+- [Ammar Alzeno](https://github.com/ammaralzeno)
+- [Fredrik Kis](https://github.com/fredrik-ui)
+- [Hibbel996](https://github.com/hibbel996)
+- [Lilly Moa](https://github.com/LillyMoa)
+- [Nora S](https://github.com/norasay)
+- [Patrik Eriksson](https://github.com/pata02)
+
+---
+
+## 📃 License
+
+This project was developed for educational purposes. Attribution is appreciated if reused or modified.
+
+---
+
+## 💡 Future Ideas
+
+- 📍 Indoor navigation with floor selection
+- 📅 Room availability and booking integration
+- 📱 Improved mobile support and responsiveness
+
+---
