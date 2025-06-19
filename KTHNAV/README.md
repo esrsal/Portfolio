@@ -1,8 +1,30 @@
-# React + Vite
+# KTHNAV
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Website:** [https://kthnav-nine.vercel.app](https://kthnav-nine.vercel.app)
 
-Currently, two official plugins are available:
+**KTHNAV** is a React-based navigation web app for the KTH (Royal Institute of Technology) campus. It helps users locate buildings and specific rooms across the campus through an intuitive interface. Built using the **Model-View-Presenter (MVP)** architectural pattern and powered by **Vite** for a fast development experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Features
+
+- 🔍 Search for specific rooms or buildings on the KTH campus
+- 🗺️ Interactive map with intuitive UI
+- 🧱 Clear separation of logic using MVP pattern
+- ⚡ Ultra-fast development and build with **Vite**
+- 🧭 Easily accessible on desktop and mobile browsers
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** (UI Framework)
+- **Vite** (Build tool)
+- **JavaScript**
+- **CSS**
+- **MVP Architecture** (Model–Presenter–View)
+
+---
+
+## 📂 Project Structure
+
