@@ -1,0 +1,42 @@
+
+@media (max-width: 1000px){
+    .all-buttons {
+
+        display: flex;
+        z-index: 10;
+        position: absolute;
+        bottom: 0px; 
+        right: 0px;
+        margin: 40px;
+    }
+    .single-button{
+        height: 100px;
+        width: 100px;
+        font-size: xx-large;
+        background-color: #000;
+        color: #fff;
+    }
+    .around-single-button{
+        margin: 1px;
+    }
+}
+@media (min-width: 1000px){
+    .all-buttons {
+
+        display: flex;
+        z-index: 10;
+        padding: 10px;
+        position: absolute;
+        bottom: 0px; 
+        right: 0px;
+    }
+    .single-button{
+        height: 60px;
+        width: 60px;
+        background-color: #000;
+        color: #fff;
+    }
+    .around-single-button{
+        margin: 1px;
+    }
+}
