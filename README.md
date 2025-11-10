@@ -6,7 +6,7 @@ Hello there! 👋 I'm Esra Salman, currently in my fourth year of Engineering in
 ### 🎓 Bachelor of Engineering in Information Technology
 
 - **Institution:** KTH Royal Institute of Technology
-- **Year:** 3rd Year
+- **Year:** 4th Year
 - **Focus:** Software Development, Systems Engineering
 
 ## Skills
