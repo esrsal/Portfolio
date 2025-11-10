@@ -1,6 +1,6 @@
 # Esra Salman - Information Technology Engineering Student
 ## Introduction
-Hello there! 👋 I'm Esra Salman, currently in my third year of Engineering in Information Technology at KTH. This GitHub profile serves as a showcase of my journey, featuring various projects that I've worked on using several coding programs.
+Hello there! 👋 I'm Esra Salman, currently in my fourth year of Engineering in Information Technology at KTH, taking my masters in Industrial Managament. This GitHub profile serves as a showcase of my journey, featuring various projects that I've worked on using several coding programs.
 
 ## Education
 ### 🎓 Bachelor of Engineering in Information Technology
