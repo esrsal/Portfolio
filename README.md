@@ -12,7 +12,7 @@ Hello there! 👋 I'm Esra Salman, currently in my fourth year of Engineering in
 ## Skills
 I have gained proficiency in several programming languages and technologies through my academic projects and personal exploration:
 
-- **Programming Languages:** Java, JavaScript, Elixir, C
+- **Programming Languages:** Java, JavaScript, Elixir, C, Python
 - **Web Technologies:** HTML, CSS, Vue.js, React.js
 - **Other Technologies:** Mathematica, MATLAB, PostgreSQL, pgAdmin, Astah Professional
 - **Tools & Platforms:** Git, GitHub, Github Desktop
