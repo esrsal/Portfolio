@@ -1,7 +1,7 @@
 # Flappy Bird
 
 ## Overview
-This project is a custom implementation of the popular mobile game Flappy Bird, developed for an embedded system using the C programming language. The game is designed to run on hardware equipped with a basic I/O shield, including a small OLED display and physical input buttons. The project was developed as part of a learning exercise in embedded systems programming and understanding hardware-software interaction.
+This project is a custom implementation of the popular mobile game Flappy Bird, developed for an embedded system using the C programming language. The game is designed to run on hardware equipped with a basic I/O shield, including a small OLED display and physical input buttons. The project was developed as part of a learning exercise in Computer hardware Engineering.
  
 ## Course
 Computer Hardware Engineering, IS1200 at KTH. 
